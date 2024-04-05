@@ -19,17 +19,4 @@ Most hosting platforms allow you to define `build` command and `output` folder:
 - Build command: `npm run build` or `next build`
 - Output folder: `out`
 
-> Make sure your hosting platform options are the same as above.
-
-<table>
-  <tr>
-    <td>
-      <img src="https://nexume.s3.ap-northeast-2.amazonaws.com/readme_deploying_your_app.png" alt="Deploying your app on vercel"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align=center><a href="https://vercel.com">Vercel</a></p>
-    </td>
-  </tr>
-</table>
+> If you are using [Vercel](https://vercel.com), you don't need to configure anything since vercel automatically detects output folder.
