@@ -19,4 +19,4 @@ Most hosting platforms allow you to define `build` command and `output` folder:
 - Build command: `npm run build` or `next build`
 - Output folder: `out`
 
-> If you are using [Vercel](https://vercel.com), you don't need to configure anything since vercel automatically detects output folder.
+> If you are using [Vercel](https://vercel.com), you don't need to configure any options since vercel will automatically detect output folder.
